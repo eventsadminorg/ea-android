@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729242986943",
+    "project_id": "events-admin0",
+    "storage_bucket": "events-admin0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729242986943:android:b45e36f3f373891b07990a",
+        "android_client_info": {
+          "package_name": "com.eventsadmin.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEgSQAnmTK3KeUaDnyBZ7K_sNKo0MUzWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
