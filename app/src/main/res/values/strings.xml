@@ -8,4 +8,7 @@
     <string name="enter_otp">Enter OTP</string>
     <string name="verify_otp">Verify OTP</string>
     <string name="go_back"><![CDATA[<- Go Back]]></string>
+    <string name="vendors">Vendors</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
 </resources>
